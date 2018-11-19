@@ -1,0 +1,22 @@
+# RUFAS .gitignore
+
+# ignore text files
+*.txt
+*.doc
+*.docx
+
+# ignore python compiled files
+*.pyc
+
+# folders
+build
+others
+Outputs
+
+# ignore project files
+*.sublime-project
+*.sublime-workspace
+*.project
+*.pydevproject
+*.vscode
+*.settings
